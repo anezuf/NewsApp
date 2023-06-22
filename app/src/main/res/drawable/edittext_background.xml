@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" />
+    <solid
+        android:color="@color/authbar" />
+    <stroke
+        android:width="0.5dp"
+        android:color="@color/externaledittext" />
+    <corners android:radius="10dp" />
+</shape>

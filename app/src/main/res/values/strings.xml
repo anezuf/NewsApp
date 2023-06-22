@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="login">Войти</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="about">Designed by Kirill Trandafil / RIBO-02-21</string>
+    <string name="share">Поделиться</string>
+    <string name="found">Поиск</string>
+
+    <string name="prepodavatel">Сергей Юрьевич</string>
+</resources>
